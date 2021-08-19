@@ -1,4 +1,4 @@
-import hmm
+import svm
 import nltk
 import math
 
